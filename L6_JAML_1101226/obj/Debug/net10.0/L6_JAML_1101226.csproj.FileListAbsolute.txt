@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\bin\Debug\net10.0\L6_JAML_1101226.exe
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\bin\Debug\net10.0\L6_JAML_1101226.deps.json
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\bin\Debug\net10.0\L6_JAML_1101226.runtimeconfig.json
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\bin\Debug\net10.0\L6_JAML_1101226.dll
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\bin\Debug\net10.0\L6_JAML_1101226.pdb
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.dll
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\refint\L6_JAML_1101226.dll
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.pdb
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\L6_JAML_1101226.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\GitHub\L6_JAML_1101226\obj\Debug\net10.0\ref\L6_JAML_1101226.dll
